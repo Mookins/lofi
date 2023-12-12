@@ -45,7 +45,7 @@ import {
   showDevTool,
 } from './main.utils';
 
-const DEFAULT_SIZE = 150;
+const DEFAULT_SIZE = 50;
 
 app.commandLine.appendSwitch('disable-gpu-vsync');
 app.commandLine.appendArgument('disable-gpu-vsync');

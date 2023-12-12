@@ -40,7 +40,7 @@ export const DEFAULT_SETTINGS: Settings = {
   x: -1,
   y: -1,
   isOnLeft: true,
-  size: 150,
+  size: 50,
   isDebug: false,
   isUsingHardwareAcceleration: true,
   accessToken: '',

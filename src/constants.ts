@@ -6,7 +6,7 @@ export const WINDOWS = platform() === 'win32';
 export const LINUX = platform() === 'linux';
 export const MACOS = platform() === 'darwin';
 
-export const MIN_SIDE_LENGTH = 115;
+export const MIN_SIDE_LENGTH =  50;
 export const MAX_SIDE_LENGTH = 1440;
 export const MAX_BAR_THICKNESS = 20;
 export const MIN_FONT_SIZE = 6;
